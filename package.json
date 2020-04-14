@@ -20,9 +20,5 @@
     "snazzy": "^4.0.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.1"
-  },
-  "dependencies": {
-    "firebase-admin": "^8.10.0",
-    "firebase-functions": "^3.6.0"
   }
 }
